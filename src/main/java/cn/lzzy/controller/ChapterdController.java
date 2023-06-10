@@ -10,7 +10,7 @@ public class ChapterdController {
     @RequestMapping(value = "/hello")
     @ResponseBody
     public String sayHello() {
-        System.out.println("hello spring boot chapterd");
+        System.out.println("hello spring boot chapterd！！！");
         return " 你好 hello spring boot!";
     }
 }
