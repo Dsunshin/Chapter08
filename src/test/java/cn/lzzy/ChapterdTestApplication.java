@@ -21,6 +21,6 @@ public class ChapterdTestApplication {
      public void unitTest(){
          String result = chapterdController.sayHello();
         System.out.println("单元测试返回"+result);
-        System.out.println("你好");
+        System.out.println("--------------------------");
      }
 }
