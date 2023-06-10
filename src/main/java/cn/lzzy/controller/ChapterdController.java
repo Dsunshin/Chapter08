@@ -11,7 +11,7 @@ public class ChapterdController {
     @ResponseBody
     public String sayHello() {
         System.out.println("hello spring boot chapterd！！！");
-        return " 你好 hello spring boot!";
+        return " 晚上好 hello spring boot!";
     }
 }
 
